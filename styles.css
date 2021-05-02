@@ -40,7 +40,7 @@ body{
 }
 .logo{
     width: 220px;
-    border-radius: 30PX;
+    border-radius: 5PX;
     cursor: pointer;
 }
 .navbar ul li{
